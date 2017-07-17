@@ -1,4 +1,4 @@
-package com.jwp.gs.ThreadPool;
+package com.jwp.gs.threadPool;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;
