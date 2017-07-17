@@ -3,7 +3,7 @@ package com.jwp.gs.worker;
 import com.jwp.gs.Platform;
 import com.jwp.gs.service.Service;
 import com.jwp.gs.service.ServiceManager;
-import com.jwp.gs.threadPool.ThreadPoolManager;
+import com.jwp.gs.threadpool.ThreadPoolManager;
 
 public class ShutdownHook implements Runnable {
 
