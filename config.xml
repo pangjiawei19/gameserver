@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+
+	<!--serverId，全局唯一 -->
+	<serverId>1</serverId>
+	<!--本游戏服务器对外IP地址-->
+	<serverIp>192.168.1.251</serverIp>
+	<!--本游戏服务器对外端口-->
+	<serverPort>12001</serverPort>
+	<!--工作线程数量-->
+	<workerCount>0</workerCount>
+	
+	<!--服务器名，可任意设定，最多6个汉字，英文名字请先测试能够完整展示-->
+	<name>Gateway2</name>
+	
+</config>
